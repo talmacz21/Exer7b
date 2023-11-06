@@ -1,0 +1,81 @@
+  1  sudo apt update
+    2  sudo apt upgrade
+    3  python3 --version
+    4  sudo apt upgrade pythone3
+    5  sudo apt upgrade python3
+    6  cv~
+    7  pwd
+    8  cd~
+    9  man grep
+   10  ls
+   11  ls Do*
+   12  lsDo*
+   13  ls Do*
+   14  cd/mnt/c/Users
+   15  cd ~
+   16  cd mnt/c/Users
+   17  sudo cd mnt/c/Users/
+   18  cd
+   19  clear
+   20  cd mnt/
+   21  cd /mnt/
+   22  cd /mnt/c/Users/cryma/
+   23  cd mnt/c/use
+   24  cd /mnt/c/Users/cryma/
+   25  cd /mnt/c/Users/cryma/Desktop/
+   26  cd /mnt/c/Users/cryma/Desktop/s
+   27  cd /mnt/c/Users/cryma/Desktop/
+   28  touch tmp_file.txt
+   29  ls
+   30  cp tmp_file.txt file_copy.txt
+   31  ls
+   32  mv file1.txt file2.txt
+   33  mv file_copy.txt file2.txt
+   34  ls
+   35  rm file2.txt
+   36  ls
+   37  rm -i file2.txt
+   38  rm -i
+   39  df -h
+   40  htop
+   41  cd ~
+   42  cd /mnt/c/Users/touch Do
+   43  cd /mnt/c/Users/cryma/Desktop
+   44  touch Do
+   45  ls
+   46  touch Do\ not\ Use "special characters" in file\ names\!.txt
+   47  ls
+   48  touch Do\ not\ Use
+   49  touch Do\ not\ Use "special characters" in file\ names\!.txt
+   50  ls
+   51  touch Do\ not\ Use "special characters" in file\ names\!.txt
+   52  ls
+   53  touch Do\ not\ Use\ \"special\ characters\"\ in\ file\ names\!.txt
+   54  ls
+   55  mkdir data
+   56  cd /mnt
+   57  cd /mnt/c/Users/cryma/Downloads/
+   58  ls
+   59  cp sample_files.zip /mnt/c/Users/cryma/Desktop/data/
+   60  cd /mnt/c/Users/cryma/Desktop/data/
+   61  ls
+   62  cd .
+   63  cd ..
+   64  cd ../Downloads
+   65  cp sample_files.zip /mnt/c/Users/cryma/Desktop/data
+   66  ls
+   67  cd ../Desktop
+   68  cd ../Desktop/data
+   69  ls
+   70  unzip sample_files.zip
+   71  sudo apt install unzip
+   72  unzip sample_files.zip
+   73  rm -ir __MACOSX/
+   74  y
+   75  wget --no-check-certificate
+   76  'https://docs.google.com/uc?export=download&id=1cLxELd7IXsGBg7IR oiEQ9ykZLwCJddL5' -O SGNUnixCheatSheet.pdf
+   77  wget --no-check-certificate
+   78  'https://docs.google.com/uc?export=download&id=1cLxELd7IXsGBg7IR oiEQ9ykZLwCJddL5' -O SGNUnixCheatSheet.pdf
+   79  ls
+   80  wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1cLxELd7IXsGBg7IRoiEQ9ykZLwCJddL5' -O SGNUnixCheatSheet.pdf
+   81  history

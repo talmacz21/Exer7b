@@ -1,0 +1,34 @@
+ history
+    2  cd
+    3  cd /mnt/c/Users/cryma/Downloads
+    4  ls
+    5  cp sample_files.zip /mnt/c/Users/cryma//Desktop/data
+    6  cd
+    7  cd /mnt/c/Users/cryma/Desktop/data/
+    8  ls
+    9  unzip sample_files.zip
+   10  rm -ir __MACOSX/
+   11   wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1cLxELd7IXsGBg7IRoiEQ9ykZLwCJddL5' -O SGNUnixCheatSheet.pdf
+   12  history
+   13  cp -r Sequences /mnt/c/Users/cryma/Desktop/data/Sequences
+   14  cd Sequences/
+   15  ls
+   16  cat sample3.fasta sample1.fasta sample2.fasta > all_samples.fasta
+   17  ls
+   18  cat sample*.fastq > all_samples.fastq
+   19  ls
+   20  head n 100 blast_sample.txt  > blast100.txt
+   21  head -n 100 blast_sample.txt  > blast100.txt
+   22  ls
+   23  tail -n 200 blast_sample.txt > blast200.txt
+   24  ls
+   25  grep -c '^>' all_samples.fasta
+   26  grep -c '^@' all_samples.fastq
+   27  head -n 15 blast_sample.txt | cut -f 1,2 blast15.txt > subject_scores.txt
+   28  head -n 15 blast_sample.txt > blast15.txt
+   29  ls
+   30  cut -f 1 blast_sample.txt | sort | uniq | wc -l
+   31  cut -f 2 blast_sample.txt  | sort | uniq | wc -l
+   32  sed 's/|/_/g' blast_sample.txt > tmp.txt
+   33  cp tmp.txt /mnt/c/Users/cryma/Desktop
+   34  history

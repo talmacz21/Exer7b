@@ -1,0 +1,18 @@
+  1  clear
+    2  history
+    3  clear
+    4  mkdir data
+    5  cd /mnt/c/Users/Downloads/
+    6  cd
+    7  cd /mnt/c/Users/Downloads
+    8  cd /mnt/c/Users/cryma/Downloads
+    9  ls
+   10  cp sample_files.zip /mnt/c/Users/cryma//Desktop/data
+   11  ls
+   12  cd
+   13  cd /mnt/c/Users/cryma/Desktop/data/
+   14  ls
+   15  unzip sample_files.zip
+   16  rm -ir __MACOSX/
+   17  wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1cLxELd7IXsGBg7IRoiEQ9ykZLwCJddL5' -O SGNUnixCheatSheet.pdf
+   18  history
